@@ -11,6 +11,8 @@ I'm pursuing entry-level **financial analyst**, **credit analyst**, and **risk a
 
 - **[car-rental-database](https://github.com/nicholas-osani/car-rental-database)** — Full database build for a car rental company: UML design, normalized 7-table SQL schema, and business queries (JOINs, subqueries, aggregates). Ported from Access to runnable SQLite.
 
+- **[311-service-requests](https://github.com/nicholas-osani/311-service-requests)** — NYC 311 open data: 10k-row API pull, pandas cleaning pipeline (dedup, missing values, feature engineering), and exploratory analysis of complaint patterns.
+
 ## Connect
 
 - LinkedIn: [linkedin.com/in/nicholas-osani](https://www.linkedin.com/in/nicholas-osani)
