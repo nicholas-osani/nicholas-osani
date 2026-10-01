@@ -9,6 +9,8 @@ I'm pursuing entry-level **financial analyst**, **credit analyst**, and **risk a
 - **[regression-diagnostics](https://github.com/nicholas-osani/regression-diagnostics)** — Full regression workflow on two real datasets: residual diagnostics, Q-Q plots, Box–Cox, VIF-based multicollinearity fixes, and model selection. Every number in the narrative is recomputed from raw data.
 - **[ford-fatal-crash-analysis](https://github.com/nicholas-osani/ford-fatal-crash-analysis)** — Tested the media claim that Fords cause more fatal crashes against ~89k NYC collision records. Decision tree + logistic regression: it's the driver and the conditions, not the car.
 
+- **[car-rental-database](https://github.com/nicholas-osani/car-rental-database)** — Full database build for a car rental company: UML design, normalized 7-table SQL schema, and business queries (JOINs, subqueries, aggregates). Ported from Access to runnable SQLite.
+
 ## Connect
 
 - LinkedIn: [linkedin.com/in/nicholas-osani](https://www.linkedin.com/in/nicholas-osani)
