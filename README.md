@@ -2,7 +2,7 @@
 
 Baruch College (Zicklin School of Business) — BBA in Statistics & Quantitative Modeling, Mathematics minor, December 2025.
 
-I'm pursuing entry-level **financial analyst**, **credit analyst**, and **risk analyst** roles. I work in Python (pandas, NumPy, statsmodels, scikit-learn) and care about honest analysis: checking assumptions, quantifying uncertainty, and saying what the data *doesn't* prove.
+I'm pursuing entry-level **financial analyst**, **credit analyst**, and **risk analyst** roles. I work in Python (pandas, NumPy, statsmodels, scikit-learn) and care about honest analysis: checking assumptions, quantifying uncertainty, and presenting truthful results.
 
 ## Projects
 
